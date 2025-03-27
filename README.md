@@ -259,8 +259,7 @@ cada sensor, lo cual generó un menor estrés en cada uno de los pacientes y con
 ello una mejor facilidad y aceptación por parte de ellos al desarrollar los
 diferentes ejercicios.
 
-4.Para la toma de muestras de cada paciente se observó que el sensor
-electromiográfico tenía una mejor respuesta de captura con los electrodos de
+4.Para la toma de muestras de cada paciente se observó que el sensor electromiográfico tenía una mejor respuesta de captura con los electrodos de
 único uso. Lo anterior sucedió porque tenía un mejor pegante, frente a los
 electrodos que se podían reusar, dado que los reutilizables no generaban un
 buen contacto y así se perdía parte de la señal cuando los usuarios generaban
