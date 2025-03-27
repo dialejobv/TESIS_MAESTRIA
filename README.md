@@ -9,5 +9,10 @@ El síndrome del túnel carpiano (STC) es una enfermedad que se presenta cuando 
 
 ![image](https://github.com/user-attachments/assets/ae64cd7c-83da-4094-8fc0-b3e25ac658b5)
 
+De forma breve se expone el diseño, el desarrollo y la implementación de cada uno de los módulos, comenzando con:
+## Arquitectura Global Módulo de Medición 
 
-A continuación...
+Se desarrolló la siguiente arquitectura para detallar de forma directa y con una información detallada el comportamiento del nervio mediando específicamente entre la muñeca y la mano teniendo:
+
+![MEDICION](https://github.com/user-attachments/assets/601a66ee-59b1-4b53-adb2-a08946b5d95f)
+
