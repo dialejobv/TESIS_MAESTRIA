@@ -266,24 +266,24 @@ electrodos que se podían reusar, dado que los reutilizables no generaban un
 buen contacto y así se perdía parte de la señal cuando los usuarios generaban
 fuerza de agarre.
 
-4. Se observó que la correlación entre las diferentes variables está en un nivel
+5. Se observó que la correlación entre las diferentes variables está en un nivel
 moderado y tenue lo que permitió generar el análisis estocástico en la red
 neuronal artificial, además se visualizó que algunas gráficas tenían una
 distribución normal por medio de la función pairplot de python.
 
-5. Se visualizó que es fundamental preguntar a los diferentes pacientes por
+6. Se visualizó que es fundamental preguntar a los diferentes pacientes por
 posibles alergias a algún material como el caso del velostat o a los electrodos de
 contacto, ya que se visualizó un caso atípico donde la usuaria comentó que
 podría tener alergias, lo que permitió un proceso más ágil en la prueba, para
 disminuir posibles molestias al paciente.
 
-6. En el análisis de la red neuronal se visualizó que el número de capas ocultas y
+7. En el análisis de la red neuronal se visualizó que el número de capas ocultas y
 neuronas podrían hasta cierto punto optimizar el desempeño de la red, sin
 embargo cuando son un número significativo, pasan por cierto umbral de
 entrenamiento y ya no tienen un rendimiento correcto, por la carga
 computacional y el tiempo de respuesta de las diferentes arquitecturas.
 
-7. Se deja como trabajo futuro el desarrollo de algoritmos computacionales con
+8. Se deja como trabajo futuro el desarrollo de algoritmos computacionales con
 deep learning, además de algoritmos enfocados en otras variables de
 experimentación con el propósito de abarcar momentos puntuales de la
 evolución de personas con probabilidad de síndrome de túnel carpiano, como es
