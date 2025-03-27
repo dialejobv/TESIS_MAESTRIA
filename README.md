@@ -68,12 +68,12 @@ Y posteriormente los resultados de la encuesta. Luego se unificó los datos y se
 
 Posteriormente se desarrolló una visualización por medio de pairplot para observar si los datos tenían una distribución normal, por medio del siguiente código:
 
-´´´python
+```python
 #Desarrollo de Gr´aficos Por Pares
 sns.pairplot(modSANT)
 #Desarrollo de Gr´aficos por Densidad
 sns.pairplot(modSANT, diag_kind = "kde")
-´´´
+```
 
 
 
