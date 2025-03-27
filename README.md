@@ -75,6 +75,26 @@ sns.pairplot(modSANT)
 sns.pairplot(modSANT, diag_kind = "kde")
 ```
 
+Teniendo presente el siguiente resultado para el caso de gráficos de distribución y gráficos por densidad para el caso de la pelota anti-estrés (Para explorar todos los resultados dirigirse a la [Tesis de Maestría](https://repository.udistrital.edu.co/items/34589746-cb5e-4336-9f70-668bf60ea23b)) 
+
+![image](https://github.com/user-attachments/assets/d65bbe5d-e7ba-4037-b105-7e5211405258)
+
+Don se visualiza la relación cruzada entre par´ametros de la pelota antiestrés con a) Histogramas y b) Densidades [Fuente Propia].
+
+Posteriormente se desarrolló las correlaciones de todas las variables de todos los códigos teniendo:
+
+```Python
+corr_df = corrSPE1.corr(method = ’spearman’)
+plt.figure(figsize=(30,20))
+sns.heatmap(corr_df, annot = True)
+plt.show()
+```
+
+Y visualizando lo siguiente en el caso del ejemplo del sensor 1 ():
+
+![CorrSPE1](https://github.com/user-attachments/assets/b1ea6ff9-aeef-4dd9-9286-3c19d6cb2141)
+
+
 
 
 
